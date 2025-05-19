@@ -1,0 +1,16 @@
+ls
+pwd
+cd
+mkdir
+rmdir
+rm
+cp
+mv
+touch
+cat
+less
+grep
+find
+chmod
+sudo
+man
