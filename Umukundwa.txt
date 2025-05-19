@@ -1,0 +1,3 @@
+ls --list files
+cd --change directory
+touch --create a new empty file
