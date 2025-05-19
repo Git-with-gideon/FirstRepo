@@ -1,0 +1,39 @@
+ls – List files and directories
+
+cd – Change directory
+
+pwd – Print working directory
+
+mkdir – Make a new directory
+
+rmdir – Remove an empty directory
+
+rm – Remove files or directories
+
+touch – Create a new empty file
+
+cp – Copy files or directories
+
+mv – Move or rename files/directories
+
+cat – View file contents
+
+nano – Open a file in the Nano editor
+
+chmod – Change file permissions
+
+chown – Change file ownership
+
+find – Search for files/directories
+
+grep – Search inside files
+
+df – Show disk usage
+
+top – View running processes
+
+ps – Display process status
+
+kill – Terminate a process
+
+man – View manual for a command
